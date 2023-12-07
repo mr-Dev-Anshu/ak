@@ -2,7 +2,7 @@
 function Home (){
      return (
       <div>
-        <h1>Home page</h1>
+       <div>This is Home page and its for Git </div>
       </div>
      )
 }
